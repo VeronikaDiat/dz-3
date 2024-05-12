@@ -1,0 +1,40 @@
+<Student>
+  <name>John Doe</name>
+  <age>20</age>
+  <gender>male</gender>
+  <isStudying>true</isStudying>
+  <grades>
+    <grade>85</grade>
+    <grade>92</grade>
+    <grade>78</grade>
+    <grade>90</grade>
+  </grades>
+  <address>
+    <street>123 Main St</street>
+    <city>Anytown</city>
+    <state>ABC</state>
+    <zipcode>12345</zipcode>
+  </address>
+  <dateOfBirth>2004-03-15</dateOfBirth>
+  <isInternationalStudent>false</isInternationalStudent>
+  <courses>
+    <course>Math</course>
+    <course>Science</course>
+    <course>History</course>
+  </courses>
+  <guardians>
+    <guardian>
+      <relationship>parent</relationship>
+      <name>Jane Doe</name>
+      <phone>+1234567890</phone>
+    </guardian>
+    <guardian>
+      <relationship>guardian</relationship>
+      <name>Bob Smith</name>
+      <phone>+1987654321</phone>
+    </guardian>
+  </guardians>
+  <studentID>S123456789</studentID>
+  <height>175.5</height>
+  <isGraduated>false</isGraduated>
+</Student>

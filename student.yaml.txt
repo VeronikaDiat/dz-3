@@ -1,0 +1,30 @@
+name: John Doe
+age: 20
+gender: male
+isStudying: true
+grades:
+  - 85
+  - 92
+  - 78
+  - 90
+address:
+  street: 123 Main St
+  city: Anytown
+  state: ABC
+  zipcode: "12345"
+dateOfBirth: "2004-03-15"
+isInternationalStudent: false
+courses:
+  - Math
+  - Science
+  - History
+guardians:
+  - relationship: parent
+    name: Jane Doe
+    phone: "+1234567890"
+  - relationship: guardian
+    name: Bob Smith
+    phone: "+1987654321"
+studentID: S123456789
+height: 175.5
+isGraduated: false
