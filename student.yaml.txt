@@ -4,7 +4,7 @@ gender: male
 isStudying: true
 grades:
   - 85
-  - 92
+  - 912
   - 78
   - 90
 address:
